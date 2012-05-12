@@ -1,0 +1,9 @@
+{
+	"name": "mailchimp/MCAPI",
+	"description": "Mailchimp API php wrapper",
+	"keywords": ["mailchimp", "api"],
+	"homepage": "http://apidocs.mailchimp.com/api/downloads/",
+	"autoload": {
+		"classmap": ["/"]
+	}
+}
